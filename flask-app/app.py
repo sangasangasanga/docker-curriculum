@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # list of cat images
 images = [
-    "https://media1.popsugar-assets.com/files/thumbor/8xugn8tUReUIM-P_T8bkjdhe0xc/fit-in/728xorig/filters:format_auto-!!-:strip_icc-!!-/2019/06/05/869/n/43879538/e754d6485cf81d3d31bd40.89484858_/i/Dark-Sides-Zodiac-Signs.jpg",
+    "https://cdn.dribbble.com/users/868082/screenshots/3985867/azure.gif",
 
 ]
 
